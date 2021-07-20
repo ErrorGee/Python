@@ -31,6 +31,7 @@ class LinkedList:
         print("None")
 
 #Creating an object ll from the linkedlist class
+
 ll=LinkedList()
 ll.insert("5")
 ll.PrintLinkedList()
